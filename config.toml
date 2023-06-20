@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Chronicles"
 theme = "papermod"
+
+[markup.goldmark.renderer]
+  unsafe= true

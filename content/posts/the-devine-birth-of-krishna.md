@@ -4,6 +4,11 @@ date: 2023-06-20T21:55:29+05:30
 draft: false
 ---
 
+<audio controls>
+    <source src="/readout/the-devine-birth-of-krishna.mp3" type="audio/mpeg">
+    Audio not supported.
+</audio>
+
 In the mystical land of Vrindavan, a place filled with darkness and ruled by a cruel tyrant, a remarkable plan began to unfold. The world cried out for a savior, and Lord Vishnu answered their plea by descending to Earth as Krishna - a radiant embodiment of divine love and compassion. Join us on an enchanting journey as we explore the extraordinary life of Krishna, starting with the captivating tale of his divine birth.
 
 **A Mother's Struggle: Imprisoned by Fear**
