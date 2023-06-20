@@ -21,5 +21,5 @@ Amidst an atmosphere filled with anticipation, the night of Krishna's birth arri
 **An Unexpected Turn: The Unfolding of the Divine Plan**
 Guided by divine intervention, Vasudeva reached the banks of the mighty Yamuna River. Despite its turbulent and swollen waters, a divine voice guided him safely across. Destiny led him to the humble village of Gokul, where he encountered Nanda and Yashoda, a loving couple who had recently welcomed a baby girl into their lives. Filled with deep sorrow, Vasudeva placed baby Krishna in Yashoda's tender embrace, while taking their daughter back with him to the prison, ensuring Krishna's safety.
 
-Thus, the captivating story of Krishna's life commenced with a miraculous birth, guided by divine intervention and driven by the purpose of eradicating evil and restoring harmony to the world. This humble beginning marked the incarnation of love and righteousness
+Thus, the captivating story of Krishna's life commenced with a miraculous birth, guided by divine intervention and driven by the purpose of eradicating evil and restoring harmony to the world. This humble beginning marked the incarnation of love and righteousness.
 
